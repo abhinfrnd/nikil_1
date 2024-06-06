@@ -1,0 +1,30 @@
+2024-06-06 16:34:14,367 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2024-06-06 16:34:14,397 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-06-06 16:34:14,398 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-06-06 16:34:14,407 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-06-06 16:34:14,407 INFO o.a.j.JMeter: Version 5.6.3
+2024-06-06 16:34:14,407 INFO o.a.j.JMeter: java.version=11.0.21
+2024-06-06 16:34:14,407 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: os.name=Windows 11
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: os.arch=amd64
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: os.version=10.0
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: java.awt.headless=null
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: Max memory     =3168796672
+2024-06-06 16:34:14,408 INFO o.a.j.JMeter: Available Processors =4
+2024-06-06 16:34:14,420 INFO o.a.j.JMeter: Default Locale=English (India)
+2024-06-06 16:34:14,420 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2024-06-06 16:34:14,420 INFO o.a.j.JMeter: JMeterHome=C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2024-06-06 16:34:14,421 INFO o.a.j.JMeter: user.dir  =C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-06-06 16:34:14,421 INFO o.a.j.JMeter: PWD       =C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-06-06 16:34:14,428 INFO o.a.j.JMeter: IP: 192.168.1.7 Name: DESKTOP-E6VQPAT FullName: DESKTOP-E6VQPAT
+2024-06-06 16:34:14,456 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-06-06 16:34:14,934 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.IntelliJTheme
+2024-06-06 16:34:22,663 INFO o.a.j.s.FileServer: Default base='C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-06-06 16:34:22,666 INFO o.a.j.g.a.Load: Loading file: C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\1.jmx
+2024-06-06 16:34:22,666 INFO o.a.j.s.FileServer: Set new base='C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-06-06 16:34:23,001 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-06-06 16:34:23,028 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-06-06 16:34:23,030 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-06-06 16:34:23,032 INFO o.a.j.s.SaveService: Loading file: C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\1.jmx
+2024-06-06 16:34:23,297 INFO o.a.j.s.FileServer: Set new base='C:\Users\KiwiTech\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
